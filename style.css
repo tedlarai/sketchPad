@@ -1,0 +1,16 @@
+button{
+  display:block;
+  margin:5px auto;
+}
+#wrapper div{
+  margin:0;
+  display:inline-block;
+  border:black 1px solid;/**/
+}
+#wrapper{
+  width:800px;/**/
+  height:800px;/**/
+  background-color:gray;
+  margin:20px auto;
+  line-height:0px;
+}
